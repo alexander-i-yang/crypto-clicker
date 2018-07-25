@@ -1,1 +1,2 @@
 # crypto-clicker
+# Go away
